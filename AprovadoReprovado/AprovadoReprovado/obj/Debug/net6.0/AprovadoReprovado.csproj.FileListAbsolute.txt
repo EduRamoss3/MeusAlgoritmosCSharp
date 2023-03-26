@@ -1,0 +1,15 @@
+C:\Users\Eduardo\Documents\Projetos\AprovadoReprovado\AprovadoReprovado\obj\Debug\net6.0\AprovadoReprovado.csproj.AssemblyReference.cache
+C:\Users\Eduardo\Documents\Projetos\AprovadoReprovado\AprovadoReprovado\obj\Debug\net6.0\AprovadoReprovado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduardo\Documents\Projetos\AprovadoReprovado\AprovadoReprovado\obj\Debug\net6.0\AprovadoReprovado.AssemblyInfoInputs.cache
+C:\Users\Eduardo\Documents\Projetos\AprovadoReprovado\AprovadoReprovado\obj\Debug\net6.0\AprovadoReprovado.AssemblyInfo.cs
+C:\Users\Eduardo\Documents\Projetos\AprovadoReprovado\AprovadoReprovado\obj\Debug\net6.0\AprovadoReprovado.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\Documents\Projetos\AprovadoReprovado\AprovadoReprovado\bin\Debug\net6.0\AprovadoReprovado.exe
+C:\Users\Eduardo\Documents\Projetos\AprovadoReprovado\AprovadoReprovado\bin\Debug\net6.0\AprovadoReprovado.deps.json
+C:\Users\Eduardo\Documents\Projetos\AprovadoReprovado\AprovadoReprovado\bin\Debug\net6.0\AprovadoReprovado.runtimeconfig.json
+C:\Users\Eduardo\Documents\Projetos\AprovadoReprovado\AprovadoReprovado\bin\Debug\net6.0\AprovadoReprovado.dll
+C:\Users\Eduardo\Documents\Projetos\AprovadoReprovado\AprovadoReprovado\bin\Debug\net6.0\AprovadoReprovado.pdb
+C:\Users\Eduardo\Documents\Projetos\AprovadoReprovado\AprovadoReprovado\obj\Debug\net6.0\AprovadoReprovado.dll
+C:\Users\Eduardo\Documents\Projetos\AprovadoReprovado\AprovadoReprovado\obj\Debug\net6.0\refint\AprovadoReprovado.dll
+C:\Users\Eduardo\Documents\Projetos\AprovadoReprovado\AprovadoReprovado\obj\Debug\net6.0\AprovadoReprovado.pdb
+C:\Users\Eduardo\Documents\Projetos\AprovadoReprovado\AprovadoReprovado\obj\Debug\net6.0\AprovadoReprovado.genruntimeconfig.cache
+C:\Users\Eduardo\Documents\Projetos\AprovadoReprovado\AprovadoReprovado\obj\Debug\net6.0\ref\AprovadoReprovado.dll

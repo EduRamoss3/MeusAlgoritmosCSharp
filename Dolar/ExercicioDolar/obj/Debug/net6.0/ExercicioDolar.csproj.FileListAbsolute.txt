@@ -1,0 +1,15 @@
+C:\Users\Eduardo\Documents\Projetos\ExercicioDolar\ExercicioDolar\bin\Debug\net6.0\ExercicioDolar.exe
+C:\Users\Eduardo\Documents\Projetos\ExercicioDolar\ExercicioDolar\bin\Debug\net6.0\ExercicioDolar.deps.json
+C:\Users\Eduardo\Documents\Projetos\ExercicioDolar\ExercicioDolar\bin\Debug\net6.0\ExercicioDolar.runtimeconfig.json
+C:\Users\Eduardo\Documents\Projetos\ExercicioDolar\ExercicioDolar\bin\Debug\net6.0\ExercicioDolar.dll
+C:\Users\Eduardo\Documents\Projetos\ExercicioDolar\ExercicioDolar\bin\Debug\net6.0\ExercicioDolar.pdb
+C:\Users\Eduardo\Documents\Projetos\ExercicioDolar\ExercicioDolar\obj\Debug\net6.0\ExercicioDolar.csproj.AssemblyReference.cache
+C:\Users\Eduardo\Documents\Projetos\ExercicioDolar\ExercicioDolar\obj\Debug\net6.0\ExercicioDolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduardo\Documents\Projetos\ExercicioDolar\ExercicioDolar\obj\Debug\net6.0\ExercicioDolar.AssemblyInfoInputs.cache
+C:\Users\Eduardo\Documents\Projetos\ExercicioDolar\ExercicioDolar\obj\Debug\net6.0\ExercicioDolar.AssemblyInfo.cs
+C:\Users\Eduardo\Documents\Projetos\ExercicioDolar\ExercicioDolar\obj\Debug\net6.0\ExercicioDolar.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\Documents\Projetos\ExercicioDolar\ExercicioDolar\obj\Debug\net6.0\ExercicioDolar.dll
+C:\Users\Eduardo\Documents\Projetos\ExercicioDolar\ExercicioDolar\obj\Debug\net6.0\refint\ExercicioDolar.dll
+C:\Users\Eduardo\Documents\Projetos\ExercicioDolar\ExercicioDolar\obj\Debug\net6.0\ExercicioDolar.pdb
+C:\Users\Eduardo\Documents\Projetos\ExercicioDolar\ExercicioDolar\obj\Debug\net6.0\ExercicioDolar.genruntimeconfig.cache
+C:\Users\Eduardo\Documents\Projetos\ExercicioDolar\ExercicioDolar\obj\Debug\net6.0\ref\ExercicioDolar.dll

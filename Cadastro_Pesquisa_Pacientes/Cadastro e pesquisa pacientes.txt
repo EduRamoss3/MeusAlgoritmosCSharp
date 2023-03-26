@@ -1,0 +1,53 @@
+using System;
+class Pacientes {
+  public string nomeP;
+  public string nomeM;
+  public double hora;
+  public Data DataConsulta;
+}
+class Data {
+  public int dia;
+  public int  mes;
+  public int ano;
+}
+
+class Program {
+  public static void Main (string[] args) {
+     Pacientes[] CadPac = new Pacientes[3];
+            for(int i = 0; i < 3 ; i ++) {
+      Pacientes X = new Pacientes();
+      X.DataConsulta = new Data();
+      
+      Console.WriteLine($"Digite o nome do {i+1}.o paciente:");
+      X.nomeP = Console.ReadLine();
+      Console.WriteLine($"Digite o nome do medico do {i+1}.o paciente:");
+      X.nomeM = Console.ReadLine();
+      Console.WriteLine("Digite a hora marcada:");
+      X.hora = double.Parse(Console.ReadLine());
+      Console.WriteLine("Digite o dia:");
+      X.DataConsulta.dia = int.Parse(Console.ReadLine()); 
+      Console.WriteLine("Digite o mes:");
+      X.DataConsulta.mes = int.Parse(Console.ReadLine());
+      Console.WriteLine("Digite o ano:");
+      X.DataConsulta.ano = int.Parse(Console.ReadLine());
+      CadPac[i] = X;
+      }
+    AchaM(CadPac);
+   }
+  public static void AchaM(Pacientes[] CadPac) {
+    Console.Clear();
+      bool Achou = false;
+      string Pesquisa;
+     Console.WriteLine("Pesquise o nome do médico:");
+    Pesquisa = Console.ReadLine();
+    foreach(Pacientes X in CadPac) {
+      if(Pesquisa == X.nomeM) {
+        Achou = true;
+        Console.WriteLine($"Médico {X.nomeM}.\nPaciente:{X.nomeP}.\nHora marcada:{X.hora}. Data: {X.DataConsulta.dia}/{X.DataConsulta.mes}/{X.DataConsulta.ano}");
+      }
+      }
+     if(!Achou) {
+     Console.WriteLine("Nome não cadastrado.");  
+    }
+  }
+}

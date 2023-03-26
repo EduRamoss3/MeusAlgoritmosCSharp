@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ExercicioDolar/1.0.0": {
+        "runtime": {
+          "ExercicioDolar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExercicioDolar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,38 @@
+using system;
+ class Complex {
+    private double PReal_;
+    public double PReal{
+        get{return a;}
+        set{a = value;}
+    }
+    public static void PImag (Complex i_) {
+        i_= -1 * Math.Sqrt(-1);
+        
+    }
+    public double a;
+    public double b;
+    private double i_;
+     public double i {
+        get{return i_;}
+     }
+
+    public static void LerComplex () {
+        Console.WriteLine("Digite a parte real:");
+        a = double.Parse(Console.ReadLine());
+        Console.WriteLine("Digite a parte imaginaria:");
+        b = double.Parse(Console.ReadLine());
+    }
+    public static void Soma(Complex a, Complex b,Complex i_) {
+        Complex Aux = new Complex();
+        double Aux Somar;
+        a + b *PImag() = Somar Aux;
+        Console.WriteLine($"{Somar Aux}");
+
+    }
+ }
+ class program {
+    public static void Main (string[] args) {
+        Console.WriteLine("Hello World!");
+        Soma(Complex);
+    }
+ }

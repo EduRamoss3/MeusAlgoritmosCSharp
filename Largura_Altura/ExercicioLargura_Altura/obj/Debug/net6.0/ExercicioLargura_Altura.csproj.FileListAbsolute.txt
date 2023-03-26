@@ -1,0 +1,15 @@
+C:\Users\Eduardo\Documents\Projetos\ExercicioLargura_Altura\ExercicioLargura_Altura\bin\Debug\net6.0\ExercicioLargura_Altura.exe
+C:\Users\Eduardo\Documents\Projetos\ExercicioLargura_Altura\ExercicioLargura_Altura\bin\Debug\net6.0\ExercicioLargura_Altura.deps.json
+C:\Users\Eduardo\Documents\Projetos\ExercicioLargura_Altura\ExercicioLargura_Altura\bin\Debug\net6.0\ExercicioLargura_Altura.runtimeconfig.json
+C:\Users\Eduardo\Documents\Projetos\ExercicioLargura_Altura\ExercicioLargura_Altura\bin\Debug\net6.0\ExercicioLargura_Altura.dll
+C:\Users\Eduardo\Documents\Projetos\ExercicioLargura_Altura\ExercicioLargura_Altura\bin\Debug\net6.0\ExercicioLargura_Altura.pdb
+C:\Users\Eduardo\Documents\Projetos\ExercicioLargura_Altura\ExercicioLargura_Altura\obj\Debug\net6.0\ExercicioLargura_Altura.csproj.AssemblyReference.cache
+C:\Users\Eduardo\Documents\Projetos\ExercicioLargura_Altura\ExercicioLargura_Altura\obj\Debug\net6.0\ExercicioLargura_Altura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduardo\Documents\Projetos\ExercicioLargura_Altura\ExercicioLargura_Altura\obj\Debug\net6.0\ExercicioLargura_Altura.AssemblyInfoInputs.cache
+C:\Users\Eduardo\Documents\Projetos\ExercicioLargura_Altura\ExercicioLargura_Altura\obj\Debug\net6.0\ExercicioLargura_Altura.AssemblyInfo.cs
+C:\Users\Eduardo\Documents\Projetos\ExercicioLargura_Altura\ExercicioLargura_Altura\obj\Debug\net6.0\ExercicioLargura_Altura.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\Documents\Projetos\ExercicioLargura_Altura\ExercicioLargura_Altura\obj\Debug\net6.0\ExercicioLargura_Altura.dll
+C:\Users\Eduardo\Documents\Projetos\ExercicioLargura_Altura\ExercicioLargura_Altura\obj\Debug\net6.0\refint\ExercicioLargura_Altura.dll
+C:\Users\Eduardo\Documents\Projetos\ExercicioLargura_Altura\ExercicioLargura_Altura\obj\Debug\net6.0\ExercicioLargura_Altura.pdb
+C:\Users\Eduardo\Documents\Projetos\ExercicioLargura_Altura\ExercicioLargura_Altura\obj\Debug\net6.0\ExercicioLargura_Altura.genruntimeconfig.cache
+C:\Users\Eduardo\Documents\Projetos\ExercicioLargura_Altura\ExercicioLargura_Altura\obj\Debug\net6.0\ref\ExercicioLargura_Altura.dll
