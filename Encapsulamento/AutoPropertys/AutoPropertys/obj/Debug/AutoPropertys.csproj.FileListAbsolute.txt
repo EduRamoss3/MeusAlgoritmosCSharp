@@ -1,0 +1,8 @@
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Encapsulamento\AutoPropertys\AutoPropertys\bin\Debug\AutoPropertys.exe.config
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Encapsulamento\AutoPropertys\AutoPropertys\bin\Debug\AutoPropertys.exe
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Encapsulamento\AutoPropertys\AutoPropertys\bin\Debug\AutoPropertys.pdb
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Encapsulamento\AutoPropertys\AutoPropertys\obj\Debug\AutoPropertys.csproj.AssemblyReference.cache
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Encapsulamento\AutoPropertys\AutoPropertys\obj\Debug\AutoPropertys.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Encapsulamento\AutoPropertys\AutoPropertys\obj\Debug\AutoPropertys.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Encapsulamento\AutoPropertys\AutoPropertys\obj\Debug\AutoPropertys.exe
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Encapsulamento\AutoPropertys\AutoPropertys\obj\Debug\AutoPropertys.pdb
