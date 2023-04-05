@@ -1,0 +1,3 @@
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Encapsulamento\Vetor\Vetor\obj\Debug\Vetor.csproj.AssemblyReference.cache
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Encapsulamento\Vetor\Vetor\obj\Debug\Vetor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Encapsulamento\Vetor\Vetor\obj\Debug\Vetor.csproj.CoreCompileInputs.cache
