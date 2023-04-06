@@ -1,0 +1,8 @@
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Vetor\ExercicioVetor\ExercicioVetor\bin\Debug\ExercicioVetor.exe.config
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Vetor\ExercicioVetor\ExercicioVetor\bin\Debug\ExercicioVetor.exe
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Vetor\ExercicioVetor\ExercicioVetor\bin\Debug\ExercicioVetor.pdb
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Vetor\ExercicioVetor\ExercicioVetor\obj\Debug\ExercicioVetor.csproj.AssemblyReference.cache
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Vetor\ExercicioVetor\ExercicioVetor\obj\Debug\ExercicioVetor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Vetor\ExercicioVetor\ExercicioVetor\obj\Debug\ExercicioVetor.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Vetor\ExercicioVetor\ExercicioVetor\obj\Debug\ExercicioVetor.exe
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Vetor\ExercicioVetor\ExercicioVetor\obj\Debug\ExercicioVetor.pdb

@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{25DA024D-3F3A-4F8B-AF58-01C9D691207B}</ProjectGuid>
+    <ProjectGuid>{CE8F2B92-0A1E-496E-A844-A22617D25C0D}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Vetor</RootNamespace>
-    <AssemblyName>Vetor</AssemblyName>
+    <RootNamespace>ExercicioVetor</RootNamespace>
+    <AssemblyName>ExercicioVetor</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,10 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Estudantes.cs" />
-    <Compile Include="..\..\..\Vetor\Program.cs">
-      <Link>Program.cs</Link>
-    </Compile>
+    <Compile Include="Calculator.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
