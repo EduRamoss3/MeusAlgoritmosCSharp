@@ -37,7 +37,6 @@ namespace Vetor
                 {
                     Console.WriteLine(i+ ":  "+vect[i]);
 
-                }
             }
 
         }
