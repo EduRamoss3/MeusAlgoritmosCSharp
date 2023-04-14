@@ -1,0 +1,8 @@
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Algoritmos Simples\Treino\Treino\bin\Debug\Treino.exe.config
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Algoritmos Simples\Treino\Treino\bin\Debug\Treino.exe
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Algoritmos Simples\Treino\Treino\bin\Debug\Treino.pdb
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Algoritmos Simples\Treino\Treino\obj\Debug\Treino.csproj.AssemblyReference.cache
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Algoritmos Simples\Treino\Treino\obj\Debug\Treino.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Algoritmos Simples\Treino\Treino\obj\Debug\Treino.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Algoritmos Simples\Treino\Treino\obj\Debug\Treino.exe
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Algoritmos Simples\Treino\Treino\obj\Debug\Treino.pdb
