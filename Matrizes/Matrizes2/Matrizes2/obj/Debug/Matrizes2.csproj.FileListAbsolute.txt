@@ -1,0 +1,8 @@
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Matrizes\Matrizes2\Matrizes2\bin\Debug\Matrizes2.exe.config
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Matrizes\Matrizes2\Matrizes2\bin\Debug\Matrizes2.exe
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Matrizes\Matrizes2\Matrizes2\bin\Debug\Matrizes2.pdb
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Matrizes\Matrizes2\Matrizes2\obj\Debug\Matrizes2.csproj.AssemblyReference.cache
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Matrizes\Matrizes2\Matrizes2\obj\Debug\Matrizes2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Matrizes\Matrizes2\Matrizes2\obj\Debug\Matrizes2.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Matrizes\Matrizes2\Matrizes2\obj\Debug\Matrizes2.exe
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Matrizes\Matrizes2\Matrizes2\obj\Debug\Matrizes2.pdb
