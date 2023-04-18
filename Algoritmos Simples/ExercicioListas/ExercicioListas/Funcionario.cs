@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Globalization;
 using System.Linq;
 using System.Security.Cryptography.X509Certificates;
 using System.Text;
@@ -44,7 +45,7 @@ namespace ExercicioListas
         }
         public override string ToString()
         {
-            return +_ID + " ," + _Nome + " , " + "R$" + _Salario;
+            return +_ID + " ," + _Nome + " , " + "R$" + _Salario.ToString("F2", CultureInfo.InvariantCulture);
         }
 
     }
