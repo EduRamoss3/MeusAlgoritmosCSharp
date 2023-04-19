@@ -61,11 +61,11 @@ namespace Matrizes2
                         {
                             Console.WriteLine("Up: " + MatrizP[i - 1, j]);
                         }
-                        if (j < n - 1)
+                        if (j < N - 1)
                         {
                             Console.WriteLine("Right: " + MatrizP[i, j + 1]);
                         }
-                        if (i < m - 1)
+                        if (i < M - 1)
                         {
                             Console.WriteLine("Down: " + MatrizP[i + 1, j]);
                         }
