@@ -1,0 +1,11 @@
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Jogos\JogoVelhaForms\JogoVelhaForms\bin\Debug\JogoVelhaForms.exe.config
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Jogos\JogoVelhaForms\JogoVelhaForms\bin\Debug\JogoVelhaForms.exe
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Jogos\JogoVelhaForms\JogoVelhaForms\bin\Debug\JogoVelhaForms.pdb
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Jogos\JogoVelhaForms\JogoVelhaForms\obj\Debug\JogoVelhaForms.csproj.AssemblyReference.cache
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Jogos\JogoVelhaForms\JogoVelhaForms\obj\Debug\JogoVelhaForms.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Jogos\JogoVelhaForms\JogoVelhaForms\obj\Debug\JogoVelhaForms.Form1.resources
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Jogos\JogoVelhaForms\JogoVelhaForms\obj\Debug\JogoVelhaForms.Properties.Resources.resources
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Jogos\JogoVelhaForms\JogoVelhaForms\obj\Debug\JogoVelhaForms.csproj.GenerateResource.cache
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Jogos\JogoVelhaForms\JogoVelhaForms\obj\Debug\JogoVelhaForms.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Jogos\JogoVelhaForms\JogoVelhaForms\obj\Debug\JogoVelhaForms.exe
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Jogos\JogoVelhaForms\JogoVelhaForms\obj\Debug\JogoVelhaForms.pdb

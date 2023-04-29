@@ -1,0 +1,8 @@
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Algoritmos Simples\DateTime\DateTime\DateTime\bin\Debug\DateTime.exe.config
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Algoritmos Simples\DateTime\DateTime\DateTime\bin\Debug\DateTime.exe
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Algoritmos Simples\DateTime\DateTime\DateTime\bin\Debug\DateTime.pdb
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Algoritmos Simples\DateTime\DateTime\DateTime\obj\Debug\datedate.csproj.AssemblyReference.cache
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Algoritmos Simples\DateTime\DateTime\DateTime\obj\Debug\datedate.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Algoritmos Simples\DateTime\DateTime\DateTime\obj\Debug\datedate.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Algoritmos Simples\DateTime\DateTime\DateTime\obj\Debug\DateTime.exe
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Algoritmos Simples\DateTime\DateTime\DateTime\obj\Debug\DateTime.pdb

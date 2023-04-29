@@ -1,0 +1,16 @@
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Jogos\JogoVelha\JogoVelha\bin\Debug\JogoVelha.exe.config
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Jogos\JogoVelha\JogoVelha\bin\Debug\JogoVelha.exe
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Jogos\JogoVelha\JogoVelha\bin\Debug\JogoVelha.pdb
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Jogos\JogoVelha\JogoVelha\obj\Debug\JogoVelha.csproj.AssemblyReference.cache
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Jogos\JogoVelha\JogoVelha\obj\Debug\JogoVelha.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Jogos\JogoVelha\JogoVelha\obj\Debug\JogoVelha.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Jogos\JogoVelha\JogoVelha\obj\Debug\JogoVelha.exe
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Jogos\JogoVelha\JogoVelha\obj\Debug\JogoVelha.pdb
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Jogos\JogoVelha\JogoVelha\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Jogos\JogoVelha\JogoVelha\bin\Debug\SolrNet.dll
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Jogos\JogoVelha\JogoVelha\bin\Debug\System.ValueTuple.dll
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Jogos\JogoVelha\JogoVelha\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Jogos\JogoVelha\JogoVelha\bin\Debug\SolrNet.pdb
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Jogos\JogoVelha\JogoVelha\bin\Debug\SolrNet.xml
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Jogos\JogoVelha\JogoVelha\bin\Debug\System.ValueTuple.xml
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Jogos\JogoVelha\JogoVelha\obj\Debug\JogoVelha.csproj.CopyComplete
