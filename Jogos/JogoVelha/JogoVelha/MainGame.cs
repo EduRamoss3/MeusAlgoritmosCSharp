@@ -65,6 +65,7 @@ namespace JogoVelha
                         PontosX++;
                         Console.WriteLine("Jogador O: " + PontosO + " pontos");
                         Console.WriteLine("Jogador X: " + PontosX + " pontos");
+                        NovoJogo(player1, player2, velha);
                     }
 
                     else
@@ -88,6 +89,7 @@ namespace JogoVelha
                             PontosO++;
                             Console.WriteLine("Jogador O: " + PontosO + " pontos");
                             Console.WriteLine("Jogador X: " + PontosX + " pontos");
+                            NovoJogo(player1, player2, velha);
 
                         }
                         Console.ResetColor();

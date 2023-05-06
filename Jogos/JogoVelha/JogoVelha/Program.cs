@@ -23,6 +23,7 @@ namespace JogoVelha
             Player2 player2 = new Player2();
             Console.SetWindowSize(70, 20);
             Console.SetCursorPosition(1, 3);
+            
 
             Console.Beep();
             Console.WriteLine("\t\t\t Jogo da Velha");

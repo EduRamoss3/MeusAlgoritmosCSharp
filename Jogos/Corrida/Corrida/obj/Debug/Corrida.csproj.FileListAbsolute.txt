@@ -1,0 +1,8 @@
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Jogos\Corrida\Corrida\bin\Debug\Corrida.exe.config
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Jogos\Corrida\Corrida\bin\Debug\Corrida.exe
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Jogos\Corrida\Corrida\bin\Debug\Corrida.pdb
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Jogos\Corrida\Corrida\obj\Debug\Corrida.csproj.AssemblyReference.cache
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Jogos\Corrida\Corrida\obj\Debug\Corrida.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Jogos\Corrida\Corrida\obj\Debug\Corrida.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Jogos\Corrida\Corrida\obj\Debug\Corrida.exe
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Jogos\Corrida\Corrida\obj\Debug\Corrida.pdb
