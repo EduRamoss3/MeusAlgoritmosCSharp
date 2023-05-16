@@ -1,0 +1,8 @@
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Enums\Posts\Posts\bin\Debug\Posts.exe.config
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Enums\Posts\Posts\bin\Debug\Posts.exe
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Enums\Posts\Posts\bin\Debug\Posts.pdb
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Enums\Posts\Posts\obj\Debug\Posts.csproj.AssemblyReference.cache
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Enums\Posts\Posts\obj\Debug\Posts.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Enums\Posts\Posts\obj\Debug\Posts.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Enums\Posts\Posts\obj\Debug\Posts.exe
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Enums\Posts\Posts\obj\Debug\Posts.pdb
