@@ -1,0 +1,8 @@
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Enums\contratos_de_funcionarios\contratos_de_funcionarios\bin\Debug\contratos_de_funcionarios.exe.config
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Enums\contratos_de_funcionarios\contratos_de_funcionarios\bin\Debug\contratos_de_funcionarios.exe
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Enums\contratos_de_funcionarios\contratos_de_funcionarios\bin\Debug\contratos_de_funcionarios.pdb
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Enums\contratos_de_funcionarios\contratos_de_funcionarios\obj\Debug\contratos_de_funcionarios.csproj.AssemblyReference.cache
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Enums\contratos_de_funcionarios\contratos_de_funcionarios\obj\Debug\contratos_de_funcionarios.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Enums\contratos_de_funcionarios\contratos_de_funcionarios\obj\Debug\contratos_de_funcionarios.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Enums\contratos_de_funcionarios\contratos_de_funcionarios\obj\Debug\contratos_de_funcionarios.exe
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Enums\contratos_de_funcionarios\contratos_de_funcionarios\obj\Debug\contratos_de_funcionarios.pdb
