@@ -1,0 +1,8 @@
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Enums\Order\Order\bin\Debug\Order.exe.config
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Enums\Order\Order\bin\Debug\Order.exe
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Enums\Order\Order\bin\Debug\Order.pdb
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Enums\Order\Order\obj\Debug\Order.csproj.AssemblyReference.cache
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Enums\Order\Order\obj\Debug\Order.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Enums\Order\Order\obj\Debug\Order.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Enums\Order\Order\obj\Debug\Order.exe
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Enums\Order\Order\obj\Debug\Order.pdb

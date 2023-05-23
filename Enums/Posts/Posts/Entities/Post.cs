@@ -56,5 +56,6 @@ namespace Posts.Entities
         {
             Comments.Remove(comment);
         }
+      
     }
 }
