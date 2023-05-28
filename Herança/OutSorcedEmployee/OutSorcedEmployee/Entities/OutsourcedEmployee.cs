@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace OutSorcedEmployee.Entities
 {
-    internal class OutsourcedEmployee : Employee
+    sealed class OutsourcedEmployee : Employee
     {
         public double AdditionalCharge { get; set; }
 
@@ -20,7 +20,7 @@ namespace OutSorcedEmployee.Entities
             this.AdditionalCharge = additionalCharge;
 
         }
-        public override double Payment()
+        public sealed override double Payment()
         {
             return base.Payment() + 1.1 * AdditionalCharge;
         }
