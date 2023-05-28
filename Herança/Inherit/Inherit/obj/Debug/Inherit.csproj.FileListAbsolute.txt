@@ -1,0 +1,8 @@
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Herança\Inherit\Inherit\bin\Debug\Inherit.exe.config
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Herança\Inherit\Inherit\bin\Debug\Inherit.exe
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Herança\Inherit\Inherit\bin\Debug\Inherit.pdb
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Herança\Inherit\Inherit\obj\Debug\Inherit.csproj.AssemblyReference.cache
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Herança\Inherit\Inherit\obj\Debug\Inherit.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Herança\Inherit\Inherit\obj\Debug\Inherit.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Herança\Inherit\Inherit\obj\Debug\Inherit.exe
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Herança\Inherit\Inherit\obj\Debug\Inherit.pdb

@@ -1,0 +1,8 @@
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Herança\FindWord\FindWord\bin\Debug\FindWord.exe.config
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Herança\FindWord\FindWord\bin\Debug\FindWord.exe
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Herança\FindWord\FindWord\bin\Debug\FindWord.pdb
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Herança\FindWord\FindWord\obj\Debug\FindWord.csproj.AssemblyReference.cache
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Herança\FindWord\FindWord\obj\Debug\FindWord.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Herança\FindWord\FindWord\obj\Debug\FindWord.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Herança\FindWord\FindWord\obj\Debug\FindWord.exe
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Herança\FindWord\FindWord\obj\Debug\FindWord.pdb
