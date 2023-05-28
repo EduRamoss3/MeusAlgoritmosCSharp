@@ -1,0 +1,8 @@
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Herança\OutSorcedEmployee\OutSorcedEmployee\bin\Debug\OutSorcedEmployee.exe.config
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Herança\OutSorcedEmployee\OutSorcedEmployee\bin\Debug\OutSorcedEmployee.exe
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Herança\OutSorcedEmployee\OutSorcedEmployee\bin\Debug\OutSorcedEmployee.pdb
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Herança\OutSorcedEmployee\OutSorcedEmployee\obj\Debug\OutSorcedEmployee.csproj.AssemblyReference.cache
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Herança\OutSorcedEmployee\OutSorcedEmployee\obj\Debug\OutSorcedEmployee.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Herança\OutSorcedEmployee\OutSorcedEmployee\obj\Debug\OutSorcedEmployee.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Herança\OutSorcedEmployee\OutSorcedEmployee\obj\Debug\OutSorcedEmployee.exe
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Herança\OutSorcedEmployee\OutSorcedEmployee\obj\Debug\OutSorcedEmployee.pdb
