@@ -1,0 +1,8 @@
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Algoritmos\UrubuDoPix\UrubuDoPix\bin\Debug\UrubuDoPix.exe.config
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Algoritmos\UrubuDoPix\UrubuDoPix\bin\Debug\UrubuDoPix.exe
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Algoritmos\UrubuDoPix\UrubuDoPix\bin\Debug\UrubuDoPix.pdb
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Algoritmos\UrubuDoPix\UrubuDoPix\obj\Debug\UrubuDoPix.csproj.AssemblyReference.cache
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Algoritmos\UrubuDoPix\UrubuDoPix\obj\Debug\UrubuDoPix.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Algoritmos\UrubuDoPix\UrubuDoPix\obj\Debug\UrubuDoPix.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Algoritmos\UrubuDoPix\UrubuDoPix\obj\Debug\UrubuDoPix.exe
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Algoritmos\UrubuDoPix\UrubuDoPix\obj\Debug\UrubuDoPix.pdb

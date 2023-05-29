@@ -18,6 +18,7 @@ namespace OutSorcedEmployee
             Interprise interprise = new Interprise();
             for(int i = 0; i < num; i++)
             {
+                Console.WriteLine();
                 Console.WriteLine($"Employee #{i+1} data:");
                 Console.WriteLine("Outsourced (y/n)?");
                 char character = char.Parse(Console.ReadLine());
