@@ -50,7 +50,10 @@ namespace UrubuDoPix.Entities
             Balance += amount;
             Dates.Add(DateTime.Now);
         }
-       
+       public void AlterBalance(double amount)
+        {
+            Balance += amount;
+        }
       
         public override string ToString()
         {

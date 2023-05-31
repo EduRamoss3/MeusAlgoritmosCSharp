@@ -1,0 +1,8 @@
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Algoritmos\ChangeBackground\ChangeBackground\bin\Debug\ChangeBackground.exe.config
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Algoritmos\ChangeBackground\ChangeBackground\bin\Debug\ChangeBackground.exe
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Algoritmos\ChangeBackground\ChangeBackground\bin\Debug\ChangeBackground.pdb
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Algoritmos\ChangeBackground\ChangeBackground\obj\Debug\ChangeBackground.csproj.AssemblyReference.cache
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Algoritmos\ChangeBackground\ChangeBackground\obj\Debug\ChangeBackground.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Algoritmos\ChangeBackground\ChangeBackground\obj\Debug\ChangeBackground.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Algoritmos\ChangeBackground\ChangeBackground\obj\Debug\ChangeBackground.exe
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Algoritmos\ChangeBackground\ChangeBackground\obj\Debug\ChangeBackground.pdb

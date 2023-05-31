@@ -14,7 +14,7 @@ namespace UrubuDoPix
       
         static void Main(string[] args)
         {
-            
+            Console.ForegroundColor = ConsoleColor.Cyan;
             Console.WriteLine("URUBU DO PIX");
             Console.Write("Usuário:");
             string userName = Console.ReadLine();
@@ -61,7 +61,12 @@ namespace UrubuDoPix
                 
                 
             }
-            transaction.Profit(DateTime.Now);
+            // transaction.Profit(DateTime.Now);
+            Console.WriteLine("NOTIFICAÇÃO: Juros de 33% adicionado ao seu saldo.");
+            double amounty = 660;
+            transaction.AlterBalance(amounty);
+            Console.WriteLine("Saldo atual:" + transaction.Balance);
+            
             Console.ReadKey();
         }
 
