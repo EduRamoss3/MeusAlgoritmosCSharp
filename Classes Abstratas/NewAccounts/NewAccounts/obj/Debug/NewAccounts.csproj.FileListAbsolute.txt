@@ -1,0 +1,8 @@
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Classes Abstratas\NewAccounts\NewAccounts\bin\Debug\NewAccounts.exe.config
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Classes Abstratas\NewAccounts\NewAccounts\bin\Debug\NewAccounts.exe
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Classes Abstratas\NewAccounts\NewAccounts\bin\Debug\NewAccounts.pdb
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Classes Abstratas\NewAccounts\NewAccounts\obj\Debug\NewAccounts.csproj.AssemblyReference.cache
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Classes Abstratas\NewAccounts\NewAccounts\obj\Debug\NewAccounts.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Classes Abstratas\NewAccounts\NewAccounts\obj\Debug\NewAccounts.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Classes Abstratas\NewAccounts\NewAccounts\obj\Debug\NewAccounts.exe
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Classes Abstratas\NewAccounts\NewAccounts\obj\Debug\NewAccounts.pdb

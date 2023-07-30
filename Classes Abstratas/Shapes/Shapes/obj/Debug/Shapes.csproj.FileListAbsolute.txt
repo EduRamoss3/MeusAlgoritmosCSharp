@@ -1,0 +1,8 @@
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Classes Abstratas\Shapes\Shapes\bin\Debug\Shapes.exe.config
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Classes Abstratas\Shapes\Shapes\bin\Debug\Shapes.exe
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Classes Abstratas\Shapes\Shapes\bin\Debug\Shapes.pdb
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Classes Abstratas\Shapes\Shapes\obj\Debug\Shapes.csproj.AssemblyReference.cache
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Classes Abstratas\Shapes\Shapes\obj\Debug\Shapes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Classes Abstratas\Shapes\Shapes\obj\Debug\Shapes.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Classes Abstratas\Shapes\Shapes\obj\Debug\Shapes.exe
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Classes Abstratas\Shapes\Shapes\obj\Debug\Shapes.pdb
