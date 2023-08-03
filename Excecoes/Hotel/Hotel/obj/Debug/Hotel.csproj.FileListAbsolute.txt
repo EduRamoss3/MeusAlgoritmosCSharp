@@ -1,0 +1,8 @@
+C:\Users\Eduardo\source\repository\Excecoes\Hotel\Hotel\bin\Debug\Hotel.exe.config
+C:\Users\Eduardo\source\repository\Excecoes\Hotel\Hotel\bin\Debug\Hotel.exe
+C:\Users\Eduardo\source\repository\Excecoes\Hotel\Hotel\bin\Debug\Hotel.pdb
+C:\Users\Eduardo\source\repository\Excecoes\Hotel\Hotel\obj\Debug\Hotel.csproj.AssemblyReference.cache
+C:\Users\Eduardo\source\repository\Excecoes\Hotel\Hotel\obj\Debug\Hotel.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eduardo\source\repository\Excecoes\Hotel\Hotel\obj\Debug\Hotel.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repository\Excecoes\Hotel\Hotel\obj\Debug\Hotel.exe
+C:\Users\Eduardo\source\repository\Excecoes\Hotel\Hotel\obj\Debug\Hotel.pdb
