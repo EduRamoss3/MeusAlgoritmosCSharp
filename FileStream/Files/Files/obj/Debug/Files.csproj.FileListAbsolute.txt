@@ -1,0 +1,8 @@
+C:\Users\Eduardo\source\repository\FileStream\Files\Files\bin\Debug\Files.exe.config
+C:\Users\Eduardo\source\repository\FileStream\Files\Files\bin\Debug\Files.exe
+C:\Users\Eduardo\source\repository\FileStream\Files\Files\bin\Debug\Files.pdb
+C:\Users\Eduardo\source\repository\FileStream\Files\Files\obj\Debug\Files.csproj.AssemblyReference.cache
+C:\Users\Eduardo\source\repository\FileStream\Files\Files\obj\Debug\Files.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eduardo\source\repository\FileStream\Files\Files\obj\Debug\Files.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repository\FileStream\Files\Files\obj\Debug\Files.exe
+C:\Users\Eduardo\source\repository\FileStream\Files\Files\obj\Debug\Files.pdb
