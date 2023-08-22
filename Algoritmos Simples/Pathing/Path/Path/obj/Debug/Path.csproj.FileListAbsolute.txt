@@ -1,0 +1,8 @@
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Algoritmos Simples\Pathing\Path\Path\bin\Debug\Path.exe.config
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Algoritmos Simples\Pathing\Path\Path\bin\Debug\Path.exe
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Algoritmos Simples\Pathing\Path\Path\bin\Debug\Path.pdb
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Algoritmos Simples\Pathing\Path\Path\obj\Debug\Path.csproj.AssemblyReference.cache
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Algoritmos Simples\Pathing\Path\Path\obj\Debug\Path.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Algoritmos Simples\Pathing\Path\Path\obj\Debug\Path.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Algoritmos Simples\Pathing\Path\Path\obj\Debug\Path.exe
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Algoritmos Simples\Pathing\Path\Path\obj\Debug\Path.pdb
