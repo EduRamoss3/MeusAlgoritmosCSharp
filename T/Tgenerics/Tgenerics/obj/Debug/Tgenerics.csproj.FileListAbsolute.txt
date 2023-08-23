@@ -1,0 +1,8 @@
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\T\Tgenerics\Tgenerics\bin\Debug\Tgenerics.exe.config
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\T\Tgenerics\Tgenerics\bin\Debug\Tgenerics.exe
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\T\Tgenerics\Tgenerics\bin\Debug\Tgenerics.pdb
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\T\Tgenerics\Tgenerics\obj\Debug\Tgenerics.csproj.AssemblyReference.cache
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\T\Tgenerics\Tgenerics\obj\Debug\Tgenerics.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\T\Tgenerics\Tgenerics\obj\Debug\Tgenerics.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\T\Tgenerics\Tgenerics\obj\Debug\Tgenerics.exe
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\T\Tgenerics\Tgenerics\obj\Debug\Tgenerics.pdb
