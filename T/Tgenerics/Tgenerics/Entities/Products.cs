@@ -19,15 +19,12 @@ namespace Tgenerics.Entities
         }
         public override string ToString()
         {
-            return "Nome: " + Name + " ," + Price.ToString("F2",CultureInfo.InvariantCulture);
+            return "\n" + Name + " ," + Price.ToString("F2",CultureInfo.InvariantCulture);
         }
 
         public int CompareTo(Products products)
         {
-            if(!(products is Products))
-            {
-                throw new ArgumentException("Comparing error!");
-            }
+
             Products other = products;
             return Price.CompareTo(other.Price);
         }

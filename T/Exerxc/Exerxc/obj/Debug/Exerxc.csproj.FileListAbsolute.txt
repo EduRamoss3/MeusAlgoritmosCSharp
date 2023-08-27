@@ -1,0 +1,8 @@
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\T\Exerxc\Exerxc\bin\Debug\Exerxc.exe.config
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\T\Exerxc\Exerxc\bin\Debug\Exerxc.exe
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\T\Exerxc\Exerxc\bin\Debug\Exerxc.pdb
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\T\Exerxc\Exerxc\obj\Debug\Exerxc.csproj.AssemblyReference.cache
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\T\Exerxc\Exerxc\obj\Debug\Exerxc.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\T\Exerxc\Exerxc\obj\Debug\Exerxc.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\T\Exerxc\Exerxc\obj\Debug\Exerxc.exe
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\T\Exerxc\Exerxc\obj\Debug\Exerxc.pdb
