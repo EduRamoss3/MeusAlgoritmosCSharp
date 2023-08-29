@@ -1,0 +1,8 @@
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Delegate-Lambda\Func\Func\obj\Debug\Func.csproj.AssemblyReference.cache
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Delegate-Lambda\Func\Func\obj\Debug\Func.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Delegate-Lambda\Func\Func\obj\Debug\Func.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Delegate-Lambda\Func\Func\bin\Debug\Func.exe.config
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Delegate-Lambda\Func\Func\bin\Debug\Func.exe
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Delegate-Lambda\Func\Func\bin\Debug\Func.pdb
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Delegate-Lambda\Func\Func\obj\Debug\Func.exe
+C:\Users\Eduardo\source\repos\MeusAlgoritmosC-\Delegate-Lambda\Func\Func\obj\Debug\Func.pdb

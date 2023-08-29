@@ -14,6 +14,8 @@ namespace ExtensionMethods
             DateTime dt = new DateTime(2018, 11, 16, 8, 10, 45);
             Console.WriteLine("Elapsed time: "  + dt.ElapsedTime());
             Console.ReadKey();
+         
+           
         }
     }
 }

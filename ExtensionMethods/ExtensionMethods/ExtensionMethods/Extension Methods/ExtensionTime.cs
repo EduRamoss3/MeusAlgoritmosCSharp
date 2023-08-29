@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Globalization;
 using System.Linq;
+using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -20,7 +21,7 @@ namespace ExtensionMethods
             {
                 return duration.TotalDays.ToString("F1",CultureInfo.InvariantCulture) + "days";
             }
-
+            
          
         }
     }
